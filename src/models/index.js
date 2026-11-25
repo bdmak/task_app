@@ -1,0 +1,1 @@
+module.exports.Tasks = require('./tasks.model');
